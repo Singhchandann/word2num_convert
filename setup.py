@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="word2num_converter",
+    name="word2num_convert",
     version="1.0.0",
     author="Chandan Singh",
     author_email="chandan21082000@gmail.com",
