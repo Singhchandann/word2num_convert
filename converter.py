@@ -1,4 +1,4 @@
-from word2num_converter.languages import english, hindi, marathi
+from word2num_convert.languages import english, hindi, marathi
 
 LANGUAGE_MAP = {
     'en': english.convert_eng_number_phrases_in_sentence,
