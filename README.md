@@ -1,16 +1,16 @@
-# Word2num_converter
+# Word2num_convert
 
 Convert number words to numeric values in English, Hindi, and Marathi.
 
 ## Installation
 
 ```bash
-pip install word2num_converter
+pip install word2num_convert
 ```
 # Usage
 
 ```bash
-from word2num_converter import convert_word2num
+from word2num_convert import convert_word2num
 
 print(convert_word2num("I have one hundred rupees", lang="en"))
 print(convert_word2num("मेरे पास पाँच सौ रुपये हैं", lang="hin"))
