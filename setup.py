@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="word2num_convert",
-    version="1.0.0",
+    version="0.0.1",
     author="Chandan Singh",
     author_email="chandan21082000@gmail.com",
     description="Convert words to numbers in English, Hindi, and Marathi",
