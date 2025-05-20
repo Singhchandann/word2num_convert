@@ -25,8 +25,6 @@ Built with ❤️ by Chandan Singh
 
 ### 📜 LICENSE
 
-You can use something like MIT:
-
 ```txt
 Apache License 2.0
 
